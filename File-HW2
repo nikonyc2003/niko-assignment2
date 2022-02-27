@@ -6,7 +6,7 @@ int main(){
         cout << "Enter a category of hurricane (1 through 5) :\n";
         cin >> category;
         if (category == 1){
-            cout << "The windspeed is 74-95 mph.\n";
+                cout << "The windspeed is 74-95 mph.\n";
         }
         else if (category == 2){
                 cout << "The windspeed is 96-100 mph.\n";
